@@ -7,7 +7,7 @@ Features
 3. Consistent iconography and design patterns.
 4. Accessible and scalable components.
 
-Technologies Used
+Technologies-used
 - Design Tool: Figma
 
 Installation
@@ -18,7 +18,7 @@ Usage
 - Explore prototypes and interactions.
 
 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
+- Contributions are welcome! Please fork the repo and submit a pull request.
 
 License
-MIT License
+- MIT License
